@@ -1,0 +1,22 @@
+{
+  "name": "atomic-design-dev-template",
+  "version": "1.0.0",
+  "description": "A simple dev template for developers to use when working on different parts of the Atomic Design ecosystem",
+  "private": true,
+  "author": {
+    "name": "Brandon Erb",
+    "email": "brandom.m.erb@gmail.com"
+  },
+  "devDependencies": {
+    "lerna": "^7.3.1",
+    "nx": "15.7.0",
+    "typescript": "^5.2.2"
+  },
+  "nx": {
+    "targets": {}
+  },
+  "workspaces": [
+    "libs/**",
+    "apps/**"
+  ]
+}
