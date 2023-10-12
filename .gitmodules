@@ -1,0 +1,20 @@
+[submodule "libs/atomic-genesis"]
+	path = libs/atomic-genesis
+	url = https://github.com/brandonmerb/atomic-genesis.git
+	branch = main
+[submodule "libs/atomic-origin"]
+	path = libs/atomic-origin
+	url = https://github.com/brandonmerb/atomic-origin.git
+	branch = main
+[submodule "libs/atomic-singularity"]
+	path = libs/atomic-singularity
+	url = https://github.com/brandonmerb/atomic-singularity
+	branch = main
+[submodule "libs/atomic-vue"]
+	path = libs/atomic-vue
+	url = https://github.com/brandonmerb/atomic-vue
+	branch = main
+[submodule "apps/atomic-design-starter"]
+	path = apps/atomic-design-starter
+	url = https://github.com/brandonmerb/atomic-design-starter.git
+	branch = main
