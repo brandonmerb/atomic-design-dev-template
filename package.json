@@ -8,11 +8,9 @@
     "email": "brandom.m.erb@gmail.com"
   },
   "devDependencies": {
-    "nx": "15.7.0",
+    "@atomicdesign/atomic-genesis": "^1.0.0",
+    "nx": "^16.10.0",
     "typescript": "^5.2.2"
-  },
-  "nx": {
-    "targets": {}
   },
   "workspaces": [
     "libs/**",
