@@ -10,7 +10,7 @@
   "scripts": {
     "git:submodule:init": "git submodule init",
     "git:submodule:update": "git submodule update --remote --recursive",
-    "project:init": "npm run git:submodule:init && npm run git:submodule:update && npm run i"
+    "project:init": "npm run git:submodule:init && npm run git:submodule:update && npm i"
   },
   "devDependencies": {
     "@atomicdesign/atomic-genesis": "^1.0.0",
