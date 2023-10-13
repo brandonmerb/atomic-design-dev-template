@@ -8,7 +8,7 @@
     "email": "brandom.m.erb@gmail.com"
   },
   "scripts": {
-    "git:submodule:init": "git submodule init --recursive",
+    "git:submodule:init": "git submodule init",
     "git:submodule:update": "git submodule update --remote --recursive",
     "project:init": "npm run git:submodule:init && npm run git:submodule:update && npm run i"
   },

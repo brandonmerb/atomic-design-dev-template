@@ -1,24 +1,24 @@
-[submodule "libs/atomic-genesis"]
-	path = libs/atomic-genesis
+[submodule "libs/@atomicdesign/atomic-genesis"]
+	path = libs/@atomicdesign/atomic-genesis
 	url = https://github.com/brandonmerb/atomic-genesis.git
 	branch = main
-[submodule "libs/atomic-origin"]
-	path = libs/atomic-origin
+[submodule "libs/@atomicdesign/atomic-origin"]
+	path = libs/@atomicdesign/atomic-origin
 	url = https://github.com/brandonmerb/atomic-origin.git
 	branch = main
-[submodule "libs/atomic-singularity"]
-	path = libs/atomic-singularity
+[submodule "libs/@atomicdesign/atomic-singularity"]
+	path = libs/@atomicdesign/atomic-singularity
 	url = https://github.com/brandonmerb/atomic-singularity
 	branch = main
-[submodule "libs/atomic-vue"]
-	path = libs/atomic-vue
+[submodule "libs/@atomicdesign/atomic-vue"]
+	path = libs/@atomicdesign/atomic-vue
 	url = https://github.com/brandonmerb/atomic-vue
 	branch = main
-[submodule "apps/atomic-design-starter"]
-	path = apps/atomic-design-starter
+[submodule "apps/@atomicdesign/atomic-design-starter"]
+	path = apps/@atomicdesign/atomic-design-starter
 	url = https://github.com/brandonmerb/atomic-design-starter.git
 	branch = main
-[submodule "libs/atomic-engine"]
-	path = libs/atomic-engine
+[submodule "libs/@atomicdesign/atomic-engine"]
+	path = libs/@atomicdesign/atomic-engine
 	url = https://github.com/brandonmerb/atomic-engine.git
 	branch = main
