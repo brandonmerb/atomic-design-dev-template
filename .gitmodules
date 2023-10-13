@@ -27,3 +27,7 @@
 	path = libs/@atomicdesign/atomic-vue
 	url = https://github.com/brandonmerb/atomic-vue.git
 	branch = main
+[submodule "halocms-sdk"]
+	path = libs/@golden-circuit-technologies/halocms-sdk
+	url = https://github.com/brandonmerb/halocms-sdk.git
+	branch = main
