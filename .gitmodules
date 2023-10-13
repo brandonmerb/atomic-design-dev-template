@@ -18,3 +18,7 @@
 	path = apps/atomic-design-starter
 	url = https://github.com/brandonmerb/atomic-design-starter.git
 	branch = main
+[submodule "libs/atomic-engine"]
+	path = libs/atomic-engine
+	url = https://github.com/brandonmerb/atomic-engine.git
+	branch = main
