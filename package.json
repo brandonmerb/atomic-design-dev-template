@@ -10,7 +10,8 @@
   "scripts": {
     "git:submodule:init": "git submodule --quiet init",
     "git:submodule:update": "git submodule --quiet update --remote --recursive",
-    "project:init": "npm run git:submodule:init && npm run git:submodule:update && npm i"
+    "project:build": "nx run-many -t build",
+    "project:init": "npm run git:submodule:init && npm run git:submodule:update && npm i && npm run project:build"
   },
   "devDependencies": {
     "@atomicdesign/atomic-genesis": "^1.0.0",
