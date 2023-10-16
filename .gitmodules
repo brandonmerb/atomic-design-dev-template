@@ -39,3 +39,7 @@
 	path = libs/@atomicdesign/atomic-sdk
 	url = https://github.com/brandonmerb/atomic-sdk.git
 	branch = main
+[submodule "atomic-engine-rs"]
+	path = libs/@atomicdesign/atomic-engine-rs
+	url = https://github.com/brandonmerb/atomic-engine-rs.git
+	branch = main
