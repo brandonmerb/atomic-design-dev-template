@@ -35,3 +35,7 @@
 	path = apps/@golden-circuit-technologies/halocms-demo
 	url = https://github.com/brandonmerb/halocms-demo.git
 	branch = main
+[submodule "atomic-sdk"]
+	path = libs/@atomicdesign/atomic-sdk
+	url = https://github.com/brandonmerb/atomic-sdk.git
+	branch = main
