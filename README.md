@@ -29,8 +29,10 @@ This will trigger pulling all submodules, updating them, doing an npm install, a
 ### Libraries included
 #### @atomicdesign
 - atomic-engine: Vite plugins that handle making the development and build processes easier
+- atomic-engine-rs: Potentially an AST crawling implementation of the above
 - atomic-genesis: NX generators for convienence
 - atomic-origin: This is an opinionated fastify server, designed to run through Atomic Singularity
+- atomic-sdk: A default set of solutions for commonly encountered problems in application development
 - atomic-singularity: The core of the Atomic Design tools
 - atomic-vue: This package provides a Vue Nebula and Atomic Singularity compatible Vue tooling
 
