@@ -32,7 +32,7 @@ This will trigger pulling all submodules, updating them, doing an npm install, a
 - atomic-genesis: NX generators for convienence
 - atomic-origin: This is an opinionated fastify server, designed to run through Atomic Singularity
 - atomic-singularity: The core of the Atomic Design tools
-- atomic-vue: This package provides a Vue Governor and Atomic Singularity compatible Vue tooling
+- atomic-vue: This package provides a Vue Nebula and Atomic Singularity compatible Vue tooling
 
 #### @golden-circuit-technologies
 - halocms-sdk: A bells and whistles included development kit. This is what HaloCMS is based on
