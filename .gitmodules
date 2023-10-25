@@ -57,3 +57,9 @@
 	url = https://github.com/brandonmerb/atomic-engine-rs.git
 	branch = main
 	update = merge
+
+[submodule "atomic-singularity-tsyringe-wrapper"]
+	path = libs/@atomicdesign/atomic-singularity-tsyringe-wrapper
+	url = https://github.com/brandonmerb/atomic-singularity-tsyringe-wrapper.git
+	branch = main
+	update = merge
