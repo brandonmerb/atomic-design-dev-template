@@ -16,8 +16,7 @@
   "devDependencies": {
     "@atomicdesign/atomic-genesis": "^1.0.0",
     "nx": "^16.10.0",
-    "typescript": "^5.2.2",
-    "async": "1.0.0"
+    "typescript": "^5.2.2"
   },
   "workspaces": [
     "libs/**",
